@@ -2,6 +2,12 @@ header {
   padding-block: 32px;
 }
 
+header .container{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
 /*Usar # para selecionar a id*/
 #profile {
   display: flex;
@@ -20,4 +26,19 @@ header {
 
 #profile p{
   font: var(--text-md);
+}
+
+#info{
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+
+  width: 280px;
+}
+
+#info li{
+  display: flex;
+  align-items: center;
+  gap: 8px;
 }
