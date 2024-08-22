@@ -6,4 +6,4 @@
 
 <p> Travel page created in module 01 of the Rocketseat Fullstack MBA course to review basic HTML and CSS concepts, such as: use of variables, box model, flexbox and pseudo-classes.</p>
 
-
+![Screenshot 2024-08-22 163652](https://github.com/user-attachments/assets/250e0d7c-8c8e-4f0d-9df1-be5b2dc5aec1)
